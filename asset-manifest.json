@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FrontendMentor-FirstTask/static/css/main.8d34117d.css",
+    "main.js": "/FrontendMentor-FirstTask/static/js/main.5671267a.js",
+    "static/media/HankenGrotesk-VariableFont_wght.ttf": "/FrontendMentor-FirstTask/static/media/HankenGrotesk-VariableFont_wght.d642a5d85689aa7d33db.ttf",
+    "index.html": "/FrontendMentor-FirstTask/index.html",
+    "main.8d34117d.css.map": "/FrontendMentor-FirstTask/static/css/main.8d34117d.css.map",
+    "main.5671267a.js.map": "/FrontendMentor-FirstTask/static/js/main.5671267a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d34117d.css",
+    "static/js/main.5671267a.js"
+  ]
+}
